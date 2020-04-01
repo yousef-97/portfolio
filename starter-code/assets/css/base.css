@@ -1,8 +1,10 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@1,300&display=swap');
 /* Basic */
 
 	html {
+		font-family: 'Comic Neue', cursive;
 		box-sizing: border-box;
 	}
 
@@ -11,8 +13,9 @@
 	}
 
 	body {
+		font-family: 'Comic Neue', cursive;
 		background: #fff;
-		font-family: 'Source Sans Pro', sans-serif;
+		/* font-family: 'Source Sans Pro', sans-serif; */
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
